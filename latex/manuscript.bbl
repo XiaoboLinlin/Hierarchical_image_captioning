@@ -1,0 +1,57 @@
+\begin{thebibliography}{1}
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
+
+\bibitem{FasterRCNN}
+Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun.
+\newblock Faster r-cnn: Towards real-time object detection with region proposal
+  networks.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  39(6):1137--1149, 2016.
+
+\bibitem{BottomUp}
+Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen
+  Gould, and Lei Zhang.
+\newblock Bottom-up and top-down attention for image captioning and visual
+  question answering.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, pages 6077--6086, 2018.
+
+\bibitem{ViT}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn,
+  Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg
+  Heigold, Sylvain Gelly, et~al.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+\newblock {\em arXiv preprint arXiv:2010.11929}, 2020.
+
+\bibitem{liu2021swin}
+Ze~Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, and
+  Baining Guo.
+\newblock Swin transformer: Hierarchical vision transformer using shifted
+  windows.
+\newblock In {\em Proceedings of the IEEE/CVF international conference on
+  computer vision}, pages 10012--10022, 2021.
+
+\bibitem{liu2021cptr}
+Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, and Jing Liu.
+\newblock Cptr: Full transformer network for image captioning.
+\newblock {\em arXiv preprint arXiv:2101.10804}, 2021.
+
+\bibitem{COCO}
+Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva
+  Ramanan, Piotr Doll{\'a}r, and C~Lawrence Zitnick.
+\newblock {Microsoft COCO}: Common objects in context.
+\newblock In {\em European Conference on Computer Vision}, pages 740--755.
+  Springer, 2014.
+
+\bibitem{liu2101cptr}
+Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, and Jing Liu.
+\newblock Cptr: Full transformer network for image captioning.
+\newblock {\em arXiv preprint arXiv:2101.10804}, 2021.
+
+\end{thebibliography}
