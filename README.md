@@ -34,7 +34,7 @@ This script saves processed images (`*.hdf5`), tokenized captions (`*.json`), ca
 Run the `src/run_train.py` script to train the model. Set the `dataset_dir` to the `output_dir` from the previous step and provide a configuration file path.
 
 ```bash
-python src/run_train.py --dataset_dir <output_path> --config_path src/config.json [OTHER_ARGUMENTS]
+python src/run_train.py --dataset_dir <output_path> --config_path src/config_vit_cnn.yaml [OTHER_ARGUMENTS]
 ```
 
 
