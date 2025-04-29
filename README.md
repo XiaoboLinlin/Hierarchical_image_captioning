@@ -12,12 +12,6 @@ The code was tested using Python 3.8.12. Install the required libraries using pi
 pip install -r requirements.txt
 ```
 
-To run the analysis notebook (`src/experiment.ipynb`), you might also need to download the Stanza English model:
-```python
-import stanza
-stanza.download("en")
-```
-
 ## Run
 
 ### Create Dataset
