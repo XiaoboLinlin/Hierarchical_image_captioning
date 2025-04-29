@@ -59,3 +59,4 @@ The script outputs a pandas DataFrame containing generated captions, ground trut
 <a id="1">[1]</a> Liu, W., Chen, S., Guo, L., Zhu, X., & Liu, J. (2021). CPTR: Full transformer network for image captioning. arXiv preprint [arXiv:2101.10804](https://arxiv.org/abs/2101.10804).
 
 <a id="2">[2]</a> Lin, T. Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., ... & Zitnick, C. L. (2014, September). Microsoft coco: Common objects in context. In European conference on computer vision (pp. 740-755). Springer, Cham.
+# Hierarchical_image_captioning
